@@ -1,4 +1,4 @@
-# GreenClothaWay
+# Green Cloth aWay
 
 ## prerequisites
 `python >= 3.6`
@@ -52,5 +52,5 @@ manage.py runserver
 
 
 
-if you want to run this application on a productive server youll have to set up a webserver and configure it according to djangos how to.
+if you want to run this application on a productive server you all have to set up a webserver and configure it according to djangos how to
 but thats on you dude!
